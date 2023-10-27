@@ -60,7 +60,7 @@ In your sketchbook set the board type to DOIT ESP32 DEVKIT V1: Tool >> Board >> 
 	 */
 	bool isAlive();
 
-/*!
+	/*!
 	 * @brief Set one TC channel sensor type
 	 * @param channel - the desired channel 1..8
 	 * @param type - thermocouple type B=0; E=1; J=2; K=3; N=4; R=5; S=6; T=7;
