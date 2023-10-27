@@ -1,5 +1,5 @@
 # Sequent-Thermpcouples-Library
-Arduino library for Sequent Microsystems [https://sequentmicrosystems.com/collections/all-io-cards/products/eight-thermocouples-daq-8-layer-stackable-hat-for-raspberry-pi)
+Arduino library for Sequent Microsystems [Eight Thermocouples DAQ 8-Layer Stackable HAT for Raspberry Pi](https://sequentmicrosystems.com/collections/all-io-cards/products/eight-thermocouples-daq-8-layer-stackable-hat-for-raspberry-pi)
 
 ## Install
 ### Library manager
