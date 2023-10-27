@@ -5,7 +5,7 @@ Arduino library for Sequent Microsystems [Eight Thermocouples DAQ 8-Layer Stacka
 ### Library manager
 Go to **Tools**>>**Manage Libraries..** menu and search for *SM_TC* and click install 
 ### Manual install
-To download click <>Code > [Download ZIP](https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library/archive/refs/heads/main.zip) button from the main [page](https://github.com/SequentMicrosystems/Sequent-RTD-Library), rename the uncompressed folder to "SM_TC" 
+To download click <>Code > [Download ZIP](https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library/archive/refs/heads/main.zip) button from the main [page](https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library), rename the uncompressed folder to "SM_TC" 
 and copy to the libraries subdirectory of your sketchbook directory ("This PC > Documents > Arduino > libraries" for a Windows PC
  or "Home > arduino > libraries" on Linux PC). Now launch the Arduino environment. If you open the Sketch > Include Library menu, you should see SM_TC inside. 
  The library will be compiled with sketches that use it. Open an arduino sketch, go to File > Examples > SM_TC > and chose your example to run.
